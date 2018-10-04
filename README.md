@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+
+I took Informatic Engineering in IT Del
